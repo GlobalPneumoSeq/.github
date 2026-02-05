@@ -17,6 +17,7 @@ The Global Pneumococcal Sequencing (GPS) Project aims to strengthen worldwide ge
 
 
 ## Database
-|                        | Repository                                                                                            | Purpose                                                                                                                                                        |
+|                        | Repository / Link                                                                                     | Purpose                                                                                                                                                        |
 |------------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| PopPUNK GPS Database   | Database v10 ([`.zip`](https://gps-project.cog.sanger.ac.uk/GPS_v10.zip) or [`.tar.gz`](https://gps-project.cog.sanger.ac.uk/GPS_v10.tar.gz))<br>[`GPSC designation v10`](https://gps-project.cog.sanger.ac.uk/GPS_v10_external_clusters.csv) | [PopPUNK](https://poppunk-docs.bacpop.org/) database to assign [Global Pneumococcal Sequence Cluster (GPSC)](https://www.pneumogen.net/gps/#/gpsc) |
 | GPSC Reference Genomes | [`GlobalPneumoSeq/gpsc-reference-genomes`](https://github.com/GlobalPneumoSeq/gpsc-reference-genomes) | Assemblies ( `.fasta` ) and annotations ( `.gff3`) of reference genomes for 73 common Global Pneumococcal Sequence Clusters (GPSCs)                            |
