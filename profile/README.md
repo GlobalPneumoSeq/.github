@@ -21,3 +21,9 @@ The Global Pneumococcal Sequencing (GPS) Project aims to strengthen worldwide ge
 |------------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | PopPUNK GPS Database   | Database v10 ([`.zip`](https://gps-project.cog.sanger.ac.uk/GPS_v10.zip) or [`.tar.gz`](https://gps-project.cog.sanger.ac.uk/GPS_v10.tar.gz))<br>[`GPSC designation v10`](https://gps-project.cog.sanger.ac.uk/GPS_v10_external_clusters.csv) | [PopPUNK](https://poppunk-docs.bacpop.org/) database to assign [Global Pneumococcal Sequence Cluster (GPSC)](https://www.pneumogen.net/gps/#/gpsc) |
 | GPSC Reference Genomes | [`GlobalPneumoSeq/gpsc-reference-genomes`](https://github.com/GlobalPneumoSeq/gpsc-reference-genomes) | Assemblies ( `.fasta` ) and annotations ( `.gff3`) of reference genomes for 73 common Global Pneumococcal Sequence Clusters (GPSCs)                            |
+
+
+## Tutorial
+|                        | Repository                                                                                            | Purpose                                                                                                                                                        |
+|------------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| FASTQ to Microreact    | [`GlobalPneumoSeq/fastq-to-microreact`](https://github.com/GlobalPneumoSeq/fastq-to-microreact)       | A tutorial on how to go from raw read sequencing files (FASTQ) to a Microreact visualisation instance for *Streptococcus pneumoniae*                           |
