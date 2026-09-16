@@ -22,7 +22,7 @@
 | GPS Database           | [GPS Database Overview](https://www.pneumogen.net/gps/gps-database-overview/)                         | Access point of all publicly available GPS data and its metadata                                                                                               |
 | PopPUNK GPS Database   | [PopPUNK GPS Database on Zenodo](https://doi.org/10.5281/zenodo.22794489)| [PopPUNK](https://poppunk-docs.bacpop.org/) database to assign [Global Pneumococcal Sequence Cluster (GPSC)](https://www.pneumogen.net/gps/#/gpsc) |
 | GPSC Reference Genomes | [`GlobalPneumoSeq/gpsc-reference-genomes`](https://github.com/GlobalPneumoSeq/gpsc-reference-genomes) | Assemblies ( `.fasta` ) and annotations ( `.gff3`) of reference genomes for 73 common GPSCs                            |
-| Standardised Colour Palettes for GPSC and Serotype | [`sanger-bentley-group/gps-database-processor/scripts/data`](https://github.com/sanger-bentley-group/gps-database-processor/tree/main/scripts/data) | The latest standardised GPSC and serotype colour palettes                            |
+| Standardised Colour Palettes for GPSC and Serotype | [`GlobalPneumoSeq/gps-database-processor/scripts/data`](https://github.com/GlobalPneumoSeq/gps-database-processor/tree/main/scripts/data) | The latest standardised GPSC and serotype colour palettes                            |
 
 
 ## Tutorial
