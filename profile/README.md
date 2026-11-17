@@ -14,6 +14,8 @@
 | GPS Pipeline           | [`GlobalPneumoSeq/gps-pipeline`](https://github.com/GlobalPneumoSeq/gps-pipeline)                     | A Nextflow pipeline designed for processing raw reads (FASTQ files) of  *Streptococcus pneumoniae* samples                                                     |
 | SeroBA v2              | [`GlobalPneumoSeq/seroba`](https://github.com/GlobalPneumoSeq/seroba)                                 | A k-mer based pipeline to identify the serotype from Illumina NGS reads                                                                                        |
 | CPS Extractor Pipeline | [`GlobalPneumoSeq/cps_extractor`](https://github.com/GlobalPneumoSeq/cps_extractor)                   | A Nextflow pipeline designed for processing *Streptococcus pneumoniae*  reads to extract the capsular locus sequence (CPS) and check for  disruptive mutations |
+| Check HP | [`GlobalPneumoSeq/check_hp`](https://github.com/GlobalPneumoSeq/check_hp)                   | Scan Bakta-generated GFF3 annotations for homopolymers in CDS promoter regions |
+
 
 
 ## Database
